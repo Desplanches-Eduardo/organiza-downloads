@@ -1,0 +1,14 @@
+# ambiente virtual do PyCharm
+.venv/
+venv/
+
+# configuração da IDE
+.idea/
+.vscode/
+
+# bytecode
+__pycache__/
+*.py[cod]
+
+# saída do cron
+cron.log
