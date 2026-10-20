@@ -1,5 +1,7 @@
 # organiza-downloads
 
+![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-6366f1?style=flat-square&labelColor=1e293b&logo=python&logoColor=white) ![cron](https://img.shields.io/badge/cron-6366f1?style=flat-square&labelColor=1e293b) ![Licença MIT](https://img.shields.io/badge/licen%C3%A7a-MIT-6366f1?style=flat-square&labelColor=1e293b&logo=opensourceinitiative&logoColor=white)
+
 Script que arruma a minha pasta `~/Downloads`. Cada arquivo solto na raiz vai para
 uma subpasta por tipo: `Documentos`, `Imagens`, `Videos`, `Audio`, `Compactados`,
 `Codigo`, `Executaveis` e `Fontes`.
